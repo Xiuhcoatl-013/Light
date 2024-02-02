@@ -11,7 +11,7 @@
   - [XXXXXXXXXXXXX](https://)
   
 - __Encryption__
-  - __Symetric Encryption__
+  - __Symmetric Encryption__
     - [AES](https://)
   - __Asymmetric Encryption__
     - [RSA](https://)
