@@ -6,7 +6,7 @@
 
 ## [Contents](https://)
 - __Complex Analysis__
-  - [Matrix Representation of Complex Numbers](https://)
+  - [Matrix Representation of Complex Numbers](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Numbers_Matrix_Representation/Matrix_Representation_of_Complex_Numbers%20.ipynb)
   - [Countur Integrals](https://)
   - [XXXXXXXXXXXXX](https://)
   
