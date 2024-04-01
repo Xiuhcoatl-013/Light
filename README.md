@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/Xiuhcoatl-013/Light/tree/main/images/w7x_with_coils.jpg" width="700px" height="auto">
+<img src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/w7x_with_coils.jpg" width="700px" height="auto">
 <br><br/>
 <br><br/>
 <br><br/>
@@ -22,7 +22,7 @@
 <p>  Instead, think in terms of <strong>fields</strong>. </p> 
 
 <br><br/>
-<img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/Xiuhcoatl-013/Light/tree/main/images/the_subtle_energy.jpg" width="300px" height="auto">
+<img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/the_subtle_energy.jpg" width="300px" height="auto">
 <p><strong>Figure - The Subtle Energy.</strong> Waves waving in peaks is what physicists identify as the particle.</p>
 <br><br/>
 
@@ -69,7 +69,7 @@
 <p> At the end of the upcoming journey, it is pretended to awake the enthusiasm to still walking on (and more in deep) in these novel areas of study, that also represents the better beat for the humankind, trying to find an environmental friendly energy management for the technology, of which is now fully dependent. </p>
 
 <br><br/> 
-[<img src="https://github.com/Xiuhcoatl-013/Light/tree/main/images/crecent_moon_art.jpg" width="90px" height="auto"/>]()
+[<img src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/crecent_moon_art.jpg" width="90px" height="auto"/>]()
 <br>
 __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>]()
               
@@ -99,9 +99,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>]()
 - __Complex Analysis__
   - [Matrix Representation of Complex Numbers](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Numbers_Matrix_Representation/Matrix_Representation_of_Complex_Numbers%20.ipynb)
   - [N-Dimensional Complex Numbers](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/N-Dimensional_Complex_Numbers/N-Dimensional_Complex_Numbers.ipynb)
-  - [Countur Integrals](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Countur_Integrals/Countur_Integrals.ipynb)
+  - [Countur Integrals](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Countur_Integrals/Countur_Integrals.ipynb) [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Countur_Integrals/Countur_Integrals___%5Bportfolios%5D/Countur_Integrals___Portfolios.ipynb)
   - [Functions of a Complex Variable](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Variable_Functions/Complex_Variable_Functions.ipynb)
-  - [The Cauchy-Riemann Equations and Analytic Functions]((https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Cauchy-Riemann_Eqs_Analytic_Functions/Cauchy-Riemann_Eqs_Analytic_Functions.ipynb)
+  - [The Cauchy-Riemann Equations and Analytic Functions](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Cauchy-Riemann_Eqs_Analytic_Functions/Cauchy-Riemann_Eqs_Analytic_Functions.ipynb)
   - [Some Extensions of Complex Methods for 2D Fields](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Methods_Extension_2D_Fields/Complex_Methods_Extension_2D_Fields.ipynb)
 
 - __Geometry__ 
