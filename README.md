@@ -5,10 +5,7 @@
 
 
 
-<img src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/w7x_with_coils.jpg" width="700px" height="auto">
-<br><br/>
-<br><br/>
-<br><br/>
+
 
 
 <h2 id="fields">All Metter (and everything else) is Made of Fields (Electromagnetic Radiation Fields)</h2>
@@ -52,7 +49,9 @@
 <p> If it were considered that photons field exitates and forms a such form of "mass" (no matter how small) then a graviton could be looked as a photon, it is the means of transferring energy among fields, and therefore mass from one place to another. </p>
 
 <p> Energy exists in many different forms, nothing but all them manifestation of the very same Electromagnetic Radiation Fields. </p>
-<br><br/> 
+
+<img src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/w7x_with_coils.jpg" width="700px" height="auto">
+<br><br/>
 <br><br/>
 <br><br/>
 
