@@ -1,3 +1,4 @@
+
 # Light - A Resonance Theory of Energy Fields
 <p> But, what if different wavelengths of light experience spacetime differently? Then maybe, time may have no beginning at all.</p>
 
@@ -70,7 +71,7 @@
 <br><br/> 
 [<img src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/crecent_moon_art.jpg" width="90px" height="auto"/>]()
 <br>
-__Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>]()
+__Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/N-Complex_Tori/Complex_Tori.ipynb)
               
 <br><br/> 
 <br><br/>
@@ -94,25 +95,38 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>]()
 <br><br/>
 
 
+
 ## [Contents](https://github.com/Xiuhcoatl-013/Light/tree/main)
+
+- __Geometry__ 
+  - [Geometry](https://github.com/Xiuhcoatl-013/Light/blob/main/Geometry/Geometry.ipynb)
+     	 
+         
 - __Complex Analysis__
-  - [Matrix Representation of Complex Numbers](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Numbers_Matrix_Representation/Matrix_Representation_of_Complex_Numbers%20.ipynb)
-  - [N-Dimensional Complex Numbers](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/N-Dimensional_Complex_Numbers/N-Dimensional_Complex_Numbers.ipynb)
+  - [Matrix Representation of Complex Numbers](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Numbers_Matrix_Representation/Matrix_Representation_of_Complex_Numbers%20.ipynb)  
   - [Countur Integrals](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Countur_Integrals/Countur_Integrals.ipynb) [<img src="https://github.com/Xiuhcoatl-013/Light/blob/main/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Countur_Integrals/Countur_Integrals___%5Bportfolios%5D/Countur_Integrals___Portfolios.ipynb)
   - [Functions of a Complex Variable](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Variable_Functions/Complex_Variable_Functions.ipynb)
   - [The Cauchy-Riemann Equations and Analytic Functions](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Cauchy-Riemann_Eqs_Analytic_Functions/Cauchy-Riemann_Eqs_Analytic_Functions.ipynb)
   - [Some Extensions of Complex Methods for 2D Fields](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Methods_Extension_2D_Fields/Complex_Methods_Extension_2D_Fields.ipynb)
-
-- __Geometry__ 
-  - [Geometry](https://github.com/Xiuhcoatl-013/Light/blob/main/Geometry/Geometry.ipynb)
-  
+  - [Stream Function](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Stream_Function/Stream_Function.ipynb)
+  - [Complex Tori](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/N-Complex_Tori/Complex_Tori.ipynb)
+  - [N-Dimensional Complex Numbers](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/N-Dimensional_Complex_Numbers/N-Dimensional_Complex_Numbers.ipynb)
+    	
+        
 - __Encryption__
   - __Symmetric Encryption__
-    - [AES](https://)
+    - [AES](https://)a
   - __Asymmetric Encryption__
     - [RSA](https://github.com/Xiuhcoatl-013/Light/blob/main/Encryption/AsymmetricEncryption/RSA/RSA_Algorithm.ipynb)
-	- [Elliptic Curves Cryptography](https://github.com/Xiuhcoatl-013/Light/blob/main/Encryption/AsymmetricEncryption/EllipticCurveCryptography/Elliptic_Curve_Cryptography%20.ipynb)
+    - [Elliptic Curves Cryptography](https://github.com/Xiuhcoatl-013/Light/blob/main/Encryption/AsymmetricEncryption/EllipticCurveCryptography/Elliptic_Curve_Cryptography%20.ipynb)
     	
-- __Impedance Spectroscopy__
-  - [Impedance Measurement](https://github.com/Xiuhcoatl-013/Light/blob/main/ImpedanceSpectroscopy/ImpedanceMeasurement/ImpedanceMeasurement.ipynb) 
+        
+- __Electromagnetic Waves__  
+  - [Maxwells Equations](https://github.com/Xiuhcoatl-013/Light/blob/main/ElectromagneticWaves/MaxwellsEquations/MaxwellsEquationsElectromagneticWaves.ipynb) 
+  - [MRI Coil Design](https://github.com/Xiuhcoatl-013/Light/blob/main/ElectromagneticWaves/MRICoilDesign/MRICoilDesign.ipynb) 
+    	
+        
+- __Spectroscopy__
+  - [Impedance Measurement](https://github.com/Xiuhcoatl-013/Light/blob/main/Spectroscopy/ImpedanceMeasurement/ImpedanceMeasurement.ipynb) 
+  - [RMI](https://github.com/Xiuhcoatl-013/Light/blob/main/Spectroscopy/RMI/RMI.ipynb) 
     
