@@ -109,7 +109,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - [The Cauchy-Riemann Equations and Analytic Functions](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Cauchy-Riemann_Eqs_Analytic_Functions/Cauchy-Riemann_Eqs_Analytic_Functions.ipynb)
   - [Some Extensions of Complex Methods for 2D Fields](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Methods_Extension_2D_Fields/Complex_Methods_Extension_2D_Fields.ipynb)
   - [Stream Function](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Stream_Function/Stream_Function.ipynb)
-  - [Complex Tori](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/N-Complex_Tori/Complex_Tori.ipynb)
+  - [Complex Tori](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Tori/Complex_Tori.ipynb)
   - [N-Dimensional Complex Numbers](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/N-Dimensional_Complex_Numbers/N-Dimensional_Complex_Numbers.ipynb)
     	
         
