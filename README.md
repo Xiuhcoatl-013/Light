@@ -128,5 +128,5 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
         
 - __Spectroscopy__
   - [Impedance Measurement](https://github.com/Xiuhcoatl-013/Light/blob/main/Spectroscopy/ImpedanceMeasurement/ImpedanceMeasurement.ipynb) 
-  - [RMI](https://github.com/Xiuhcoatl-013/Light/blob/main/Spectroscopy/RMI/RMI.ipynb) 
+  - [MRI](https://github.com/Xiuhcoatl-013/Light/blob/main/Spectroscopy/MRI/MRI.ipynb) 
     
