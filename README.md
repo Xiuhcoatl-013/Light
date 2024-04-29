@@ -71,7 +71,7 @@
 <br><br/> 
 [<img src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/crecent_moon_art.jpg" width="90px" height="auto"/>]()
 <br>
-__Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/N-Complex_Tori/Complex_Tori.ipynb)
+__Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Light/blob/main/ComplexAnalysis/Complex_Tori/Complex_Tori.ipynb)
               
 <br><br/> 
 <br><br/>
