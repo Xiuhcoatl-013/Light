@@ -123,7 +123,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
         
 - __Electromagnetic Waves__  
   - [Maxwells Equations](https://github.com/Xiuhcoatl-013/Light/blob/main/ElectromagneticWaves/MaxwellsEquations/MaxwellsEquationsElectromagneticWaves.ipynb) 
-  - [Stream-Function for 2-D Current Lines Drawing in DC Modeling](https://github.com/Xiuhcoatl-013/Light/blob/main/ElectromagneticWaves/StreamFunctionCurrentLinesDrawing/StreamFunctionCurrentLinesDrawing.ipynb)
+  - [Stream-Function for 2-D Streamlines and Equipotencial Lines Drawing](https://github.com/Xiuhcoatl-013/Light/blob/main/ElectromagneticWaves/StreamFunctionCurrentLinesDrawing/StreamFunctionCurrentLinesDrawing.ipynb)
   - [MRI Coil Design](https://github.com/Xiuhcoatl-013/Light/blob/main/ElectromagneticWaves/MRICoilDesign/MRICoilDesign.ipynb) 
     	
         
