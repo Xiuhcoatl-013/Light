@@ -9,13 +9,13 @@
 
 
 
-<h2 id="fields">All Metter (and everything else) is Made of Fields (Electromagnetic Radiation Fields)</h2>
+<h2 id="fields">All Matter (and everything else) is Made of Fields (Electromagnetic Radiation Fields)</h2>
 
 <p> When scientists talk to non-scientists about particle physics, they talk about the smallest building blocks of matter </p> 
 
-<p> That’s one way of looking at things. But it’s not really the way things are. And if physicists really want other people to appreciate the discovery of the Higgs boson (and other stuff), it’s time to tell them the rest of the story. </p> 
+<p> That’s one way of looking at things... but it’s not really the way things are. If physicists really want other people to appreciate the discovery of the Higgs boson (and other stuff), it’s time to tell them the rest of the story. </p> 
 
-<p style="font-style: italic;"> "To understand what is going on, it is actually needed to give up a little bit (a lot) on the notion of particles” </p> 
+<p style="font-style: italic;"> "To understand what is going on, you actually need to give up a little bit (or a lot) on the notion of particles.” </p> 
 
 <p>  Instead, think in terms of <strong>fields</strong>. </p> 
 
@@ -24,32 +24,32 @@
 <p><strong>Figure - The Subtle Energy.</strong> Waves waving in peaks is what physicists identify as the particle.</p>
 <br><br/>
 
-<p> Anyone is already familiar with some fields. When holding two magnets close together, their attraction or repulsion could be feeled before they even touch, an interaction between two magnetic fields. Likewise, anyone know that when jump in the air, eventually going to come back down. That’s because of living in Earth’s gravitational field. </p> 
+<p> Most people are already familiar with some fields. When holding two magnets close together, their attraction or repulsion can be felt before they even touch: an interaction between two magnetic fields. Likewise, everyone knows that when you jump in the air, eventually you're going to come back down. That’s because you are living in Earth’s gravitational field. </p> 
     
-<p> Every particle is actually a field. The universe is full of fields, and what is thinked of as particles are just excitations of those fields, like waves in an ocean. An electron, for example, is just an excitation of an electron field. </p> 
+<p> Every particle is actually a field. The universe is full of fields, and what is thought of as particles are just excitations of those fields, like waves in an ocean. An electron, for example, is just an excitation of an electron field. </p> 
     
 <p> This may seem counterintuitive, but seeing the world in terms of fields actually helps make sense of some otherwise confusing facts of particle physics. </p>   
 
 
-<p> When a radioactive material decays, for example, it is thinked as spitting out different kinds of particles. Neutrons decay into protons, electrons and neutrinos. Those protons, electrons and neutrinos aren’t hiding inside neutrons, waiting to get out. Yet they appear when neutrons decay. </p> 
+<p> When radioactive material decays, for example, it is thought of as spitting out different kinds of particles. Neutrons decay into protons, electrons and neutrinos. Those protons, electrons and neutrinos aren’t hiding inside neutrons, waiting to get out, yet they appear when neutrons decay. </p> 
 
 <p> If thinking in terms of fields, this sudden appearance of new kinds of particles starts to make more sense. The energy and excitation of one field transfers to others as they vibrate against each other, making it seem like new types of particles are appearing. </p>
 
-<p> Thinking in fields provides a clearer picture of how scientists are able to make massive particles like Higgs bosons in the Large Hadron Collider. The LHC smashes bunches of energetic protons into one another, and scientists study those collisions. </p>
+<p> Thinking in fields provides a clearer picture of how scientists are able to make massive particles like the Higgs boson in the Large Hadron Collider. The LHC smashes bunches of energetic protons into one another, and scientists study those collisions. </p>
 
-<p> What’s really happening in LHC collisions is that especially excited excitations of a field—the energetic protons—are vibrating together and transfering their energy to adjacent fields, forming new excitations that are seem as new particles—such as Higgs bosons for example. </p>
+<p> What’s really happening in LHC collisions is that especially excited excitations of a field —the energetic protons— are vibrating together and transfering their energy to adjacent fields, forming new excitations that are seen as new particles, such as Higgs bosons for example. </p>
   
-<p> Also It is well accepted that energy exists in many different forms. Examples of these are: light energy, heat energy, mechanical energy, gravitational energy, electrical energy, sound energy, chemical energy, nuclear or atomic energy and so on. Each form can be converted or changed into the other forms. </p>
+<p> Also, it is well accepted that energy exists in many different forms. Examples of these are: light energy, heat energy, mechanical energy, gravitational energy, electrical energy, sound energy, chemical energy, nuclear or atomic energy and so on. Each form can be converted or changed into any of the other forms. </p>
     
-<p> However the work performed at this moment, strongly suggests that everything is a form of electromagnetism. </p>
+<p> However the work performed at this moment strongly suggests that everything is a form of electromagnetism. </p>
 
-<p> To speculate why shouldn’t a neutron field just be a proton field that has no spin. If spin is the requirement for electromagnetism to interact then this would differentiate it from electrons fields and protons fields. It is possible that an electron field is simply an electromagnetic back eddy from a proton field. Combine the electron and proton energy field and perhaps you have a standing wave of electromagnetism with no spin. </p>
+<p> It can be speculated why a neutron field isn't just a proton field that has no spin. If spin is the requirement for electromagnetism to interact, then this would differentiate it from electron fields and proton fields. It is possible that an electron field is simply an electromagnetic back end of a proton field. Combine the electron and proton energy field and perhaps you will have a standing wave of electromagnetism with no spin. </p>
 
-<p> There appears to be a stance for clasic treatices on physics, that rejects the notion that gravity could be related to electromagnetism. The fact that the two theories are based on an inverse square law and propose an exchange of particles (photons or gravitons) doesn’t seem enough for the physicists to look for a connection, stuff that turns clear when it is looked in terms of fields. </p> 
+<p> There appears to be a stance for classic treatices on physics that rejects the notion that gravity could be related to electromagnetism. The fact that the two theories are based on an inverse square law and propose an exchange of particles (photons or gravitons) doesn’t seem enough for the physicists to look for a connection; this becomes clear when it is looked at in terms of fields. </p> 
 
-<p> If it were considered that photons field exitates and forms a such form of "mass" (no matter how small) then a graviton could be looked as a photon, it is the means of transferring energy among fields, and therefore mass from one place to another. </p>
+<p> If it were considered that photon fields are excited and form a type of "mass" (no matter how small) then a graviton could be seen as a photon; it is the means of transferring energy among fields, and therefore mass from one place to another. </p>
 
-<p> Energy exists in many different forms, nothing but all them manifestation of the very same Electromagnetic Radiation Fields. </p>
+<p> Energy exists in many different forms and, nonetheless, they are all manifestation of the very same Electromagnetic Radiation Fields. </p>
 
 <img src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/w7x_with_coils.jpg" width="700px" height="auto">
 <br><br/>
@@ -58,15 +58,15 @@
 
 
 
-<h2 id="digital_control">Why a Digital Control Approach for High-Frequency Switched-Mode Power Converters in the Pursuit of Energy Management?</h2>
+<h2 id="digital_control">Why is a Digital Control Approach for High Frequency Switched-Mode Power Converters used in the Pursuit of Energy Management?</h2>
 
-<p> Power Electronics represents the most feasible way to control the Energy for Human usage, going from tinny manifestations like nerve traveling information through an organic nervous system to thermonuclear reactors or even Stars and massive universe energy manifestations, all them electromagnetic phenomenon's that finally could be addressed from the power electronics point of view. </p> 
+<p> Power Electronics represents the most feasible way to control the Energy for Human usage, going from tiny manifestations like nerve traveling information through an organic nervous system to thermonuclear reactors or even Stars and massive universe energy manifestations, all of them electromagnetic phenomena that could finally be addressed from the power electronics point of view. </p> 
     
-<p> One of the most ambitious objectives with this work, is related with sensibilities readers on the energy management, from a scientific point of view and the role and responsibility the humankind has acquired as part of them technological evolution progression, always as a warning call to reinforce the nature preservation, over the false human empowerment or any other type of social frivolity. </p>
+<p> One of the most ambitious objectives with this work is related to readers with hig sensibility with regards to energy management -from a scientific point of view- and the role and responsibility that humankind has acquired as part of the progression of the technological evolution, always as a warning call to reinforce the preservation of nature over false human empowerment (or any other type of social frivolity). </p>
     
 <p> The study and considerations for taking advantage of the diverse resonance properties available in any system will be presented as a feasible application for going beyond the physical restriction that are normally observed in the original system. </p>
     
-<p> At the end of the upcoming journey, it is pretended to awake the enthusiasm to still walking on (and more in deep) in these novel areas of study, that also represents the better beat for the humankind, trying to find an environmental friendly energy management for the technology, of which is now fully dependent. </p>
+<p> At the end of the upcoming journey, the pretension is to awaken the enthusiasm to keep treading on (and to do so more deeply) in these novel areas of study, that also represent a better bet for humankind, trying to find an environmentally friendly energy management for technology, of which it is now fully dependent. </p>
 
 <br><br/> 
 [<img src="https://github.com/Xiuhcoatl-013/Light/blob/main/images/crecent_moon_art.jpg" width="90px" height="auto"/>]()
