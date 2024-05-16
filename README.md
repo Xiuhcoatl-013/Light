@@ -9,13 +9,13 @@
 
 
 
-<h2 id="fields">All Metter (and everything else) is Made of Fields (Electromagnetic Radiation Fields)</h2>
+<h2 id="fields">All Matter (and everything else) is Made of Fields (Electromagnetic Radiation Fields)</h2>
 
 <p> When scientists talk to non-scientists about particle physics, they talk about the smallest building blocks of matter </p> 
 
-<p> That’s one way of looking at things. But it’s not really the way things are. And if physicists really want other people to appreciate the discovery of the Higgs boson (and other stuff), it’s time to tell them the rest of the story. </p> 
+<p> That’s one way of looking at things... but it’s not really the way things are. If physicists really want other people to appreciate the discovery of the Higgs boson (and other stuff), it’s time to tell them the rest of the story. </p> 
 
-<p style="font-style: italic;"> "To understand what is going on, it is actually needed to give up a little bit (a lot) on the notion of particles” </p> 
+<p style="font-style: italic;"> "To understand what is going on, you actually need to give up a little bit (or a lot) on the notion of particles.” </p> 
 
 <p>  Instead, think in terms of <strong>fields</strong>. </p> 
 
