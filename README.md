@@ -58,7 +58,7 @@
 
 
 
-<h2 id="digital_control">Why is a Digital Control Approach for High-Frequency Switched-Mode Power Converters in the Pursuit of Energy Management?</h2>
+<h2 id="digital_control">Why is a Digital Control Approach for High Frequency Switched-Mode Power Converters used in the Pursuit of Energy Management?</h2>
 
 <p> Power Electronics represents the most feasible way to control the Energy for Human usage, going from tiny manifestations like nerve traveling information through an organic nervous system to thermonuclear reactors or even Stars and massive universe energy manifestations, all of them electromagnetic phenomena that could finally be addressed from the power electronics point of view. </p> 
     
